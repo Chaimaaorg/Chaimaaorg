@@ -3,7 +3,7 @@
 </div>
 <br>
 
-<img src="https://api.careers.fresenius.com/images/4a9e0fed-f1d2-49ce-92d1-8af5ba2df041" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/Chaimaaorg/Chaimaaorg/blob/main/neural-network-programming-pic.png" alt="Neural Network Programming Picture">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chaimaâ+Ourgani!;" />
@@ -33,7 +33,7 @@ My work sits at the intersection of **science, intuition, and engineering**, dri
   <a href="https://www.kaggle.com/chaimaourgani" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="https://chaimaaorg.github.io/portfolio-v2/" target="_blank">
+  <a href="https://Chaimaaorg.github.io/portfolio-v2/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=aboutdotme&logoColor=white" />
   </a>
 </div>
