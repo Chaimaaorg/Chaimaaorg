@@ -51,7 +51,8 @@ My work sits at the intersection of **science, intuition, and engineering**, dri
   <!-- Data Processing & Analytics -->
   <p align="center">
     <strong>📊 Data Processing & Analytics</strong><br>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=python,opencv,kafka" />
+    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="48" height="48" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="48" height="48" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" />
@@ -60,7 +61,7 @@ My work sits at the intersection of **science, intuition, and engineering**, dri
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=opencv" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="48" height="48" />
-    <img src="https://skillicons.dev/icons?i=kafka" />
+    <img src="https://skillicons.dev/icons?i=kafka" /> -->
   </p>
   <!-- Databases & Storage -->
   <p align="center">
